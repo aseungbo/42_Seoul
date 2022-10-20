@@ -31,3 +31,6 @@
 [submodule "42_philosopher"]
 	path = 42_philosopher
 	url = https://github.com/42Seoul-seuan-sajeon/42_philosopher
+[submodule "42_Inception"]
+	path = 42_Inception
+	url = https://github.com/42Seoul-seuan-sajeon/42_Inception
