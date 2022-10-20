@@ -34,6 +34,3 @@
 [submodule "42_Inception"]
 	path = 42_Inception
 	url = https://github.com/aseungbo/42_Inception
-[submodule "42_webserv"]
-	path = 42_webserv
-	url = https://github.com/aseungbo/42_webserv
